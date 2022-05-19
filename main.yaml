@@ -1,0 +1,14 @@
+System Design:
+  Components:
+    - Rate Limitter:
+        references:
+          - https://stripe.com/blog/rate-limiters
+    - Cache: todo
+    - unique id: todo
+    - database: todo
+    - cdn: todo
+    - proxy: todo
+    - reverse proxy: todo
+Sample Designs:
+  - Whatsapp: todo
+
